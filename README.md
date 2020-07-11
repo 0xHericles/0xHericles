@@ -1,8 +1,6 @@
+![header](/art/mini-header.png)
+
 <samp>
-
-## Heyo, Héricles here 👋
-
-**I'm a dev and Computer Science student.**  
 An open-source enthusiast interested in Distributed Systems, Cloud Computing, Internet Privacy, and Artificial Intelligence.
 
 :computer: Currently working to make the world more privacy-preserving at [@OpenMined](https://github.com/OpenMined)  
