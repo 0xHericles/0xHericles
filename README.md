@@ -12,6 +12,7 @@
 Dev & Computer Science Student. An open-source enthusiast interested in Distributed Systems, Cloud Computing, Internet Privacy, and Artificial Intelligence.
 
 💻 Currently working to make the world more privacy-preserving at [@OpenMined](https://github.com/OpenMined)  
+💻 Backend Software Engineer at [@nuveo](https://github.com/nuveo)  
 
 
 ### Featured 	
