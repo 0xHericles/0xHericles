@@ -1,15 +1,10 @@
-
-<p align="left">
-    <a href="https://www.linkedin.com/in/hericlesme/"><img alt="Linkedin profile" title="Linkedin" src="https://raw.githubusercontent.com/hericlesme/hericlesme/master/assets/linkedin.svg" width="100" height="30" /></a>
-    <a href="https://twitter.com/hericlesme"><img alt="Twitter" src="https://raw.githubusercontent.com/hericlesme/hericlesme/master/assets/twitter.svg" title="Twitter" width="75" height="30" /></a>
-</p>
-<hr \>
-
-<samp>
-
 ## It's me, Héricles 👋 
 
-Dev & Computer Science Student. An open-source enthusiast interested in Distributed Systems, Cloud Computing, Internet Privacy, and Artificial Intelligence.
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hericlesme) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hericlesme/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hericlesme) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hericles) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white
+)](https://codepen.io/monuel)
+
+
+Dev & Computer Science Student. An open-source enthusiast interested in Creative Development, Distributed Systems, Cloud Computing, Internet Privacy, and AI.
 
 💻 Frontend Engineer at [@getupcloud](https://github.com/getupcloud)  
 
