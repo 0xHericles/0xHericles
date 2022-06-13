@@ -21,7 +21,7 @@ Dev & Computer Science Student. An open-source enthusiast interested in Distribu
 - [UnDistro - A vanilla, non-opinionated, and open source Kubernetes distribution](https://github.com/getupio-undistro/undistro)  
 - [PySyft - A library for answering questions using data you cannot see](https://github.com/OpenMined/PySyft)  
 - [PyGrid Admin - The user interface for PyGrid!](https://github.com/OpenMined/pygrid-admin) 
-- [cast-sh - :pager: An instance of your terminal in your browser](https://github.com/PipeFlow/cast-sh)	
+- [cast-sh - :pager: An instance of your terminal in your browser](https://github.com/hericlesme/cast-sh)	
 - [OhMyVector - Tool and scripts for Vector robots](https://github.com/OhMyVector)
     
 #### Blog posts	
