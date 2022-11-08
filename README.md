@@ -13,7 +13,7 @@ Dev & Computer Science Student. An open-source enthusiast interested in Creative
 
 #### Projects	
 
-- [UnDistro - A vanilla, non-opinionated, and open source Kubernetes distribution](https://github.com/getupio-undistro/undistro)  
+- [UnDistro - Products to manage Kubernetes environments in a simple and centralized way](https://undistro.io)  
 - [PySyft - A library for answering questions using data you cannot see](https://github.com/OpenMined/PySyft)  
 - [PyGrid Admin - The user interface for PyGrid!](https://github.com/OpenMined/pygrid-admin) 
 - [cast-sh - :pager: An instance of your terminal in your browser](https://github.com/monuelo/cast-sh)	
