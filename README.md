@@ -21,3 +21,7 @@ Dev & Computer Science Student. An open-source enthusiast interested in Creative
     
 #### Blog posts	
 - [PySyft, PyTorch and Intel SGX: Secure Aggregation on Trusted Execution Environments](https://medium.com/pytorch/pysyft-pytorch-and-intel-sgx-secure-aggregation-on-trusted-execution-environments-2f582c8df831)
+
+##
+
+[![@monuelo's Holopin badges](https://holopin.me/monuelo)](https://holopin.io/@monuelo)
