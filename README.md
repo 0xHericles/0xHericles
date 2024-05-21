@@ -1,10 +1,10 @@
 ## It's me, Héricles 👋 
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/monuelo) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hericl.es/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/LittlePiccklee) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hericles) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/monuelo) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hericl.es/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/0xHericles) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hericles) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white
 )](https://codepen.io/monuel)
 
 
-Dev & Computer Science Student. An open-source enthusiast interested in Creative Development, Distributed Systems, Cloud Computing, Internet Privacy, and AI.
+Dev & open-source enthusiast interested in Creative Development, Distributed Systems, Cloud Computing, Internet Privacy, and AI.
 
 💻 Software Engineer at [@deco-cx](https://github.com/deco-cx)  
 
@@ -25,4 +25,4 @@ Dev & Computer Science Student. An open-source enthusiast interested in Creative
 
 ##
 
-[![@monuelo's Holopin badges](https://holopin.me/monuelo)](https://holopin.io/@monuelo)
+[![An image of @monuelo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/monuelo)](https://holopin.io/@monuelo)
