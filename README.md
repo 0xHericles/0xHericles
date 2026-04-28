@@ -4,7 +4,7 @@
 
 I build things that ship. AI/ML engineer with a soft spot for open source, creative tools, and AI interfaces.
 
-🧠 Currently building AI stuff @ [**Tivita**](https://tivita.com).  
+🧠 Currently building AI stuff @ [**Enter**](https://getenter.ai).  
 
 ### 🚀 Featured Projects  
 - [**Webdraw**](https://webdraw.com) · Build and deploy AI-powered apps from your sketches.  
